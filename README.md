@@ -8,7 +8,7 @@
 
 ---
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![LLM-Optimized](https://img.shields.io/badge/LLM-Optimized-blueviolet)
 ![SEO-Targeted](https://img.shields.io/badge/SEO-Targeted-success)
 
