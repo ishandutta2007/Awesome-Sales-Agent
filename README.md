@@ -2,6 +2,8 @@
 
 # Top AI SDR, AI BDR & Autonomous Sales Agents (2026)
 
+<div align="center">
+
 **A Curated List of SaaS Platforms & Open-Source GitHub Projects for Autonomous Outbound Sales**  
 *Focused on: AI Sales Development Representatives (SDRs), AI BDRs, Agentic Sales Workflows, and Lead Generation Agents.*  
 **Last updated: March 2026**
@@ -11,8 +13,15 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![LLM-Optimized](https://img.shields.io/badge/LLM-Optimized-blueviolet)
 ![SEO-Targeted](https://img.shields.io/badge/SEO-Targeted-success)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 This repository tracks the most powerful **SaaS platforms** and **open-source projects** for building **Autonomous Sales Agents**. These tools leverage **Agentic AI** to autonomously prospect, research leads, personalize multi-channel outreach (Email, LinkedIn, Phone), handle objections, and book meetings on your calendar.
+
+</div>
 
 ## 🚀 Why Use Autonomous Sales Agents (AI SDRs)?
 
